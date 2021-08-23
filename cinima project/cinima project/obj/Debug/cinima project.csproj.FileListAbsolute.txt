@@ -1,0 +1,18 @@
+C:\Users\dor59\OneDrive\שולחן העבודה\cinima project\cinima project\bin\Debug\cinima project.exe.config
+C:\Users\dor59\OneDrive\שולחן העבודה\cinima project\cinima project\bin\Debug\cinima project.exe
+C:\Users\dor59\OneDrive\שולחן העבודה\cinima project\cinima project\bin\Debug\cinima project.pdb
+C:\Users\dor59\OneDrive\שולחן העבודה\cinima project\cinima project\obj\Debug\cinima_project.Form1.resources
+C:\Users\dor59\OneDrive\שולחן העבודה\cinima project\cinima project\obj\Debug\cinima_project.Properties.Resources.resources
+C:\Users\dor59\OneDrive\שולחן העבודה\cinima project\cinima project\obj\Debug\cinima project.csproj.GenerateResource.cache
+C:\Users\dor59\OneDrive\שולחן העבודה\cinima project\cinima project\obj\Debug\cinima project.csproj.CoreCompileInputs.cache
+C:\Users\dor59\OneDrive\שולחן העבודה\cinima project\cinima project\obj\Debug\cinima project.exe
+C:\Users\dor59\OneDrive\שולחן העבודה\cinima project\cinima project\obj\Debug\cinima project.pdb
+C:\Users\dor59\OneDrive\שולחן העבודה\cinima project\cinima project\obj\Debug\cinima_project.Form_select_status.resources
+C:\Users\dor59\OneDrive\שולחן העבודה\cinima project\cinima project\obj\Debug\cinima_project.Form_Manager.resources
+C:\Users\dor59\OneDrive\שולחן העבודה\cinima project\cinima project\obj\Debug\cinima_project.Form_User.resources
+C:\Users\dor59\OneDrive\שולחן העבודה\cinima project\cinima project\obj\Debug\cinima_project.Form_add_moviescs.resources
+C:\Users\dor59\OneDrive\שולחן העבודה\cinima project\cinima project\obj\Debug\cinima_project.Form_delete_.resources
+C:\Users\dor59\OneDrive\שולחן העבודה\cinima project\cinima project\obj\Debug\cinima_project.form_update_price.resources
+C:\Users\dor59\OneDrive\שולחן העבודה\cinima project\cinima project\obj\Debug\cinima_project.formUpdatenumofseats.resources
+C:\Users\dor59\OneDrive\שולחן העבודה\cinima project\cinima project\obj\Debug\cinima_project.Form2_the_hallcs.resources
+C:\Users\dor59\OneDrive\שולחן העבודה\cinima project\cinima project\obj\Debug\cinima project.csproj.AssemblyReference.cache
